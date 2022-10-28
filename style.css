@@ -1,0 +1,22 @@
+.titulo{
+    color: black;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 7px 4px 5px gray;
+}
+p{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 7px 4px 5px gray;
+}
+#subtitulo{
+    color:black;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 7px 4px 5px gray;
+}
+body{
+    background-image: url(https://www.iagua.es/sites/default/files/styles/thumbnail-750x422/public/happy-feet-mediateca.jpg?itok=uGfgO8EG);
+    background-size: cover;
+}
